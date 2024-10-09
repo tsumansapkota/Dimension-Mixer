@@ -1,0 +1,11 @@
+_Datasets
+*.pyc
+*/__pycache__
+*.pth
+*.pkl
+*.pickle
+*.zip
+*.json
+*.txt
+.ipynb_checkpoints/
+*.idea
