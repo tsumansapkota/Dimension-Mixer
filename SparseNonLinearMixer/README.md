@@ -4,9 +4,9 @@ This sub-directory includes code and experiments for Ordinary MLP-Mixer Model an
 
 ### Benchmark
 
-From the directory `PatchOnlyMlpMixer` run:   
+From the directory `SparseNonLinearMixer` run:   
 
-```python benchmark_mixers.py --seed [SEED] --save_dir [SAVE DIRECTORY]```
+```python benchmark_sparse_mlp_mixers.py --seed [SEED] --save_dir [SAVE DIRECTORY]```
 
 By default, the `SEED` is `None`, which uses all required seeds, and `SAVE DIRECTORY` is `./logs` 
 

@@ -4,7 +4,7 @@ This sub-directory includes code and experiments for Butterfly Linear  - Random 
 
 ### Benchmark
 
-From the directory `LinearMixer` run:   
+From the directory `SparseLinearMixer` run:   
 
 ```python benchmark_linear_mixer.py --seed [SEED] --save_dir [SAVE DIRECTORY]```
 

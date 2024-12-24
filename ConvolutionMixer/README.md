@@ -4,7 +4,7 @@ This sub-directory includes code and experiments for Butterfly Convolution.
 
 ### Benchmark
 
-From the directory `ConvolutionMixer/` run:   
+From the directory `ConvolutionMixer` run:   
 
 ```python benchmark_convmixer.py --seed [SEED] --save_dir [SAVE DIRECTORY]```
 

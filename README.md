@@ -12,9 +12,10 @@ The script for one shot benchmark is in `run_all_benchmark.sh`.
 ## Citation
 ```
 @article{sapkota2023dimension,
-  title={Dimension Mixer: A Generalized Method for Structured Sparsity in Deep Neural Networks},
+  title={Dimension Mixer: Group Mixing of Input Dimensions for Efficient Function Approximation},
   author={Sapkota, Suman and Bhattarai, Binod},
   journal={arXiv preprint arXiv:2311.18735},
-  year={2023}
+  year={2023},
+  url={https://arxiv.org/abs/2311.18735}
 }
 ```

@@ -1,0 +1,1 @@
+This work is shared under Licence: Creative Commons Attribution 4.0	(CC-BY-4.0).
